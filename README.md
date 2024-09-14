@@ -22,5 +22,5 @@ This is a simple CV project to practice web development skills.
 3. View the CV in the browser
 
 ## Project URL
-https://github.com/KINGAKWO/Single-Page-CV
 https://roadmap.sh/projects/single-page-cv
+
