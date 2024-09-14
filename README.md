@@ -19,6 +19,7 @@ This is a simple CV project to practice web development skills.
 
 1. Clone the repository
 2. Open the index.html file in a web browser
-
 3. View the CV in the browser
 
+## Project URL
+https://github.com/KINGAKWO/Single-Page-CV
