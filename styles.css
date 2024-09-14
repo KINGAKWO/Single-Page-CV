@@ -1,0 +1,32 @@
+/* Global Styles */
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  hr {
+    width: 50%;
+  }
+  
+  /* Content Box Styles */
+  
+  .content-box {
+    width: 60%;
+    padding: 20px;
+    border: 2px solid black;
+    background-color: #ffffff; /* Use hex code for better readability */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+  }
+  
+  /* Position and Sub Styles */
+  
+  .position {
+    color: #00ff15; /* Use hex code for better readability */
+  }
+  
+  .sub {
+    color: royalblue;
+  }
